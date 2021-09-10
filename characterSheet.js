@@ -1,15 +1,15 @@
 const data = {
-  name: 'Claudio',
-  player: 'Ryan',
-  occupation: 'Caçador',
-  age: 21,
+  name: 'Azot',
+  player: 'Gabruel',
+  occupation: 'Investugador',
+  age: 19,
   sex: 'male',
   birthplace: 'São paulo',
   residence: 'São paulo',
 
   life: {
-    current: 12,
-    max: 12,
+    current: 22,
+    max: 22,
   },
   sanity: {
     current: 62,
@@ -18,13 +18,13 @@ const data = {
 
   weapons: [
     {
-      name: 'Balestra',
-      type: 'Arco',
+      name: 'Katana',
+      type: 'Espada',
       damage: '1d20',
       numCurrent: 1,
       numMax: 1,
       attack: 5,
-      reach: '10 m',
+      reach: '0,5 m',
       defect: 1,
       area: '',
     },
@@ -43,15 +43,15 @@ const data = {
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 5,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 5,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 12,
     },
     {
       type: 'Educação',
@@ -71,15 +71,15 @@ const data = {
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 4,
     },
     {
       type: 'Movimento',
-      amount: 10,
+      amount: 9,
     },
     {
-      type: '?',
-      amount: 10,
+      type: 'Enganação',
+      amount: 18,
     },
   ],
 }
