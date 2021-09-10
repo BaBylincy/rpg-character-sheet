@@ -1,5 +1,5 @@
 const data = {
-  name: 'Claudio',
+  name: 'Gabriel',
   player: 'Ryan',
   occupation: 'Caçador',
   age: 21,
@@ -43,15 +43,15 @@ const data = {
   attributes: [
     {
       type: 'Aparência',
-      amount: 10,
+      amount: 5,
     },
     {
       type: 'Constituição',
-      amount: 10,
+      amount: 14,
     },
     {
       type: 'Destreza',
-      amount: 10,
+      amount: 13,
     },
     {
       type: 'Educação',
@@ -59,11 +59,11 @@ const data = {
     },
     {
       type: 'Força',
-      amount: 10,
+      amount: 16,
     },
     {
       type: 'Inteligência',
-      amount: 10,
+      amount: 8,
     },
     {
       type: 'Poder',
@@ -71,7 +71,7 @@ const data = {
     },
     {
       type: 'Sorte',
-      amount: 10,
+      amount: 3,
     },
     {
       type: 'Movimento',
@@ -79,7 +79,7 @@ const data = {
     },
     {
       type: '?',
-      amount: 10,
+      amount: 18,
     },
   ],
 }
